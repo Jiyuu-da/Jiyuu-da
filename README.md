@@ -3,6 +3,8 @@
 😄 Pronouns: He / Him <br>
 🗨️ Languages known : English, French, Hindi <br>
 
+Technical skills : Python, Java, MySQL/SQLite, Flask, HTML, CSS
+
 <!---
 Jiyuu-da/Jiyuu-da is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
